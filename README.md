@@ -1,7 +1,7 @@
 # AISE-Allocateur
 
 donc le fichier source (maMalloc.c )
-on a implémenter les fonctions suivantes : maMalloc , maRealloc , maCalloc et monFree 
+on a implémenté les fonctions suivantes : maMalloc , maRealloc , maCalloc et monFree 
 en utilisant  l'allocation de page via  « mmap » et « munmap »
 
 le test de performance : test1.c 
